@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+}
+
+.quadrado{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-image: url('imagens/imagemteste.png');
+    display: inline-block;
+}
+
+div#q1{
+    background-position: left top;
+}
+
+div#q2{
+    background-position: right top;
+}
+
+div#q3{
+    background-position: left bottom;
+}
+
+div#q4{
+    background-position: right bottom;
+}
