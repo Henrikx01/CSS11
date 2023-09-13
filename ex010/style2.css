@@ -1,0 +1,16 @@
+body{
+    background-image: url('imagens/pattern003.png');
+    /*
+    NÃO REPETE A IMAGEM:
+    background-repeat: no-repeat;
+
+    REPETE A IMAGEM:
+    background-repeat: repeat;
+
+    REPETE A IMAGEM SOMENTE PARA O LADO, COMO UMA LINHA:
+    background-repeat: repeat-x;
+
+    REPETE A IMAGEM SOMENTE PARA BAIXO, COMO UMA COLUNA:
+    background-repeat: repeat-y;
+    */
+}
