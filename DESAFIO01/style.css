@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Oswald&family=Source+Code+Pro:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+body{
+    background-image: url(midia/banner.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*.container1{
+
+}*/
+
+.titulo{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+.assunto{
+    color: white;
+    margin: 0px;
+}
+
+h1{ 
+    margin: 10px 20px;
+}
+
+p{  
+    font-family: 'Inconsolata';
+    margin: 2px 20px;
+    padding: 2px;
+}
+
+.botao{
+    color: #001e38;
+    box-shadow: 2px 2px 3px rgb(70, 70, 70);
+    font-family: 'Alata';
+    font-size: 17px;
+    padding: 10px;
+    text-align: center;
+    height: 25px;
+    width: 250px;
+    background: linear-gradient(to right, #7AD7E1, #1D555B);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    cursor: pointer
+}
+
+.botao:hover{
+    animation-name: botao;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes botao{
+    0%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.05);
+    }
+}

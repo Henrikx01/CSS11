@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    /*
+    Medidas Absolutas:
+    cm, mm, in, px, pt, pc
+
+    Medidas Relativas:
+    em, ex, rem, vw, vh, %
+    16px geralmente é = a 1em
+    16px é o tamanho normal das fontes...
+    */
+}
+
+h1{
+    /*
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size:48px;
+    font-style: italic;
+
+    (shortrand-font)
+    font-style => font-weight => font-size => font family
+    */
+
+    font: italic bolder 48px Arial, sans-serif;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}

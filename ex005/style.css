@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, #ff5e5e, #ff8484);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+/*
+text-align: justify (Alinha o texto conforme você move a página, usados geralmentes em textos grandes...)
+text-align: center (Move o texto para o meio da página.)
+text-align: right (Move o texto para o lado direito da página)
+text-align: left  (Move o texto para o lado esquerdo da página)
+*/

@@ -1,0 +1,27 @@
+"box-shadow: Xpx Xpx Xpx color" - Sombra da sua div; 
+-
+"text-shadow: Xpx Xpx Xpx color" - Sombra do texto:
+|
+Primeiro número usamos para o LADO da div...
+|
+Segundo número usamos para BAIXO da div...
+|
+Terceiro número de px usamos para o ESPALHAMENTO do dêgrade...
+-----------------------------------------------------------------------------------------
+
+"margin: auto" - Mover sua div para o meio da página.
+
+-----------------------------------------------------------------------------------------
+
+"text-align: type" - Alinhar seus textos do tipo que mandar EX: text-align: center.
+
+-----------------------------------------------------------------------------------------
+
+"border-radius: Xpx" - Bordas redondas conforme o número de px
+
+-----------------------------------------------------------------------------------------
+
+"padding: Xpx" - Encaixar texto dentro da sua div 
+
+-----------------------------------------------------------------------------------------
+

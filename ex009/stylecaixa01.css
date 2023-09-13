@@ -1,0 +1,46 @@
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 163, 50);
+
+    width: 300px;
+    height: 300px;
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    
+    /*border: 5px solid black*/
+
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+
+    /*padding: 10px 10px 10px 10px | padding: 10px */
+
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:20px;
+    margin-left:20px;
+
+    /*margin: 20px 20px 20px 20px | margin: 20px*/
+
+    /*margin: auto;
+    Usamos para alinhar a caixa no meio da pág.*/
+
+    outline-width: 10px;
+    outline-style: dashed;
+    outline-color: blue;
+
+    /*outline: 10px dashed blue*/
+
+}
+
+a{
+    border: 2px dashed aqua
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
